@@ -12,7 +12,6 @@ As a user, I can:
 * Click the submit button to see what my Akan name would be.
 ### How to Use
 To use this web application, follow these steps:
-
 * Navigate to the Akan Name Generator website.
 * Enter your birthdate in the format DD/MM/YYYY.
 * Select your gender from the dropdown menu.
@@ -25,6 +24,10 @@ This web application was built using:
 * HTML
 * CSS
 * JavaScript
+
+## Support and contact details
+If you need help using this Akan Name Generator, or if you have any questions or concerns, please contact the creator at [simeon.kiplagat@student.moringaschool.com]. The creator is happy to provide assistance and support to users of this app
+
 ### Credit
 The Akan names and formula for calculating the day of the week were sourced from Wikipedia and Timeanddate.com, respectively.
 
