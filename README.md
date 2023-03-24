@@ -19,9 +19,9 @@ If your birthdate is invalid or you have not selected a gender, an error message
 ### Technology Used
 This web application was built using:
 
-HTML5
-CSS3
-JavaScript
+* HTML
+* CSS
+* JavaScript
 ### Credit
 The Akan names and formula for calculating the day of the week were sourced from Wikipedia and Timeanddate.com, respectively.
 
