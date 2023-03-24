@@ -27,6 +27,10 @@ This web application was built using:
 
 ## Support and contact details
 If you need help using this Akan Name Generator, or if you have any questions or concerns, please contact the creator at [simeon.kiplagat@student.moringaschool.com]. The creator is happy to provide assistance and support to users of this app
+## View live site
+* Click the link below to acces the live site
+https://skiplagat.github.io/AKAN_NAMES/
+
 
 ### Credit
 The Akan names and formula for calculating the day of the week were sourced from Wikipedia and Timeanddate.com, respectively.
