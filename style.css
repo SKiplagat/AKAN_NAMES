@@ -3,8 +3,16 @@
     margin: 0 auto;
     text-align: center;
     padding-top: 50px;
+    float: inline-end;
   }
-  
+  .content {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: left;
+    padding-top: 50px;
+    float: left;
+  }
+    
   form {
     margin-top: 30px;
   }
