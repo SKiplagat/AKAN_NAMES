@@ -39,3 +39,9 @@
   #output {
     margin-top: 30px;
   }
+  header {
+    background-color: #e28585;
+    color: white;
+    padding: 1em;
+    text-align: center;
+  }
