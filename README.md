@@ -1,4 +1,7 @@
 # Akan Name Generator
+#### Akan Name Generator build on HTML, javascript and styles with CSS, 24/03/2023
+#### By **Simeon Kiplagat**
+## Description
 * This web application takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name, which is derived from Ghanaian culture.
 
 ### User Story
